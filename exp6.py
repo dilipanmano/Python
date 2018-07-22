@@ -1,3 +1,4 @@
+#number of uppercase and lowercase letters  in a string
 a=input("enter the string")
 a=a.replace(" ", "")
 count=0
